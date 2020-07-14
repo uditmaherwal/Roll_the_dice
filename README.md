@@ -1,6 +1,6 @@
-# dice_roller
+# Dice Roller
 
-A new Flutter project.
+My app won't let you lose your dice, ever.
 
 ## Getting Started
 
